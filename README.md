@@ -14,6 +14,9 @@ Strategy-driven, metrics-oriented technologist with 20+ years of experience desi
 
 ---
 
+➡️ [See detailed portfolio of work](./WORK.md)  
+
+---
 ## 🛠️ Technical Skills
 
 **Cloud Platforms:**  
