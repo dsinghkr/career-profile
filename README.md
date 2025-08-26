@@ -75,10 +75,15 @@ Strategy-driven, metrics-oriented technologist with 20+ years of experience desi
 ---
 
 ## 📌 Career Snapshot
-- **Daxko Technologies (2023–Present)** – Heading **Site Reliability & Data Engineering**, driving Terraform-based infra, EKS upgrades, and team leadership.  
-- **Eagleview Technologies (2019–2023)** – Director of Platform Engineering; drove $2M+ annual cost savings, platform modernization, and global team leadership.  
-- **Publicis Sapient (2012–2019)** – Practice Lead & DevOps Strategist; architected global-scale Azure & AWS hosting, delivered financial compliance & marketing platforms.  
-- **Fujitsu, R Systems, JK Technosoft (2005–2012)** – Solution Architect roles across enterprise systems, cloud infra, and digital transformation initiatives.  
+- **Daxko Technologies** – Practice Manager, Tech & Delivery | Site Reliability & Data Engineering (2023 – Present)  
+- **Eagleview Technologies** – Director, Platform Engineering (2019 – 2023)  
+- **Publicis Sapient** – Practice Lead & DevOps Strategist (2012 – 2019)  
+- **Fujitsu Consulting India** – Solution Architect (2010 – 2012)  
+- **R Systems International** – Architect & Project Leader (2007 – 2010)  
+- **JK Technosoft** – Chief Solution Specialist / Tech Lead (2005 – 2007)  
+- **STG Development Division** – Senior Programmer / Technical Executive (2001 – 2005)  
+
+➡️ [See detailed career history](./CAREER.md)
 
 ---
 
