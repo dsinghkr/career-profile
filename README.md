@@ -40,7 +40,30 @@ Strategy-driven, metrics-oriented technologist with 20+ years of experience desi
 💻 Git, SVN, Perforce, Eclipse, Visual Studio  
 
 ---
+## 🎓 Certifications
 
+<p align="left">
+  <!-- AWS -->
+  <img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge" alt="AWS SAA"/>
+
+  <!-- Azure 
+  <img src="https://img.shields.io/badge/Microsoft-Azure_Administrator-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" alt="Azure Administrator"/>-->
+
+  <!-- Terraform 
+  <img src="https://img.shields.io/badge/HashiCorp-Terraform_Associate-844FBA?logo=terraform&logoColor=white&style=for-the-badge" alt="Terraform Associate"/>-->
+
+  <!-- Kubernetes 
+  <img src="https://img.shields.io/badge/CNCF-Certified_Kubernetes_Administrator-326CE5?logo=kubernetes&logoColor=white&style=for-the-badge" alt="CKA"/>-->
+
+  <!-- DevOps/Security 
+  <img src="https://img.shields.io/badge/DevOps-Professional-2496ED?logo=docker&logoColor=white&style=for-the-badge" alt="DevOps Pro"/>-->
+  <img src="https://img.shields.io/badge/AWS-Certified_Security_Specialty-FF9900?logo=amazonaws&logoColor=white&style=for-the-badge" alt="AWS Certified Security Specialty"/>
+
+  <!-- SAFe certified Lead -->
+  <img src="https://img.shields.io/badge/SAFe-Certified_Lead_Practitioner-4F009E?logo=scaledagile&logoColor=white&style=for-the-badge" alt="SAFe Certified Lead Practitioner"/>
+</p>
+
+---
 ## 🏆 Awards & Recognition
 - **MVP** – Multicloud4u Technologies (Alibaba)  
 - **Bald Eagle** – Eagleview (highest employee recognition, 2021)  
