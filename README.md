@@ -83,7 +83,7 @@ Strategy-driven, metrics-oriented technologist with 20+ years of experience desi
 - **JK Technosoft** – Chief Solution Specialist / Tech Lead (2005 – 2007)  
 - **STG Development Division** – Senior Programmer / Technical Executive (2001 – 2005)  
 
-➡️ [See detailed career history](./CAREER.md)
+➡️ [See detailed career history](./career.md)
 
 ---
 
